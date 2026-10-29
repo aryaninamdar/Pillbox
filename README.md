@@ -1,7 +1,7 @@
 
 # 💊 PillBox — Smart Medication Management
 
-PillBox is a full-stack iOS and watchOS medication management application designed to address everyday challenges in medication management. Specificially, the app simplifies prescription tracking, improves medication adherence, and streamlines communication with healthcare providers. Built with **SwiftUI, Python, Flask, and Firebase Firestore**, PillBox offers an intuitive platform for patients to organize their prescriptions, manage daily dosing schedules, track medication completion, and request refills.
+PillBox is a full-stack iOS and watchOS application designed to address everyday challenges in medication management. Specificially, the app simplifies prescription tracking, improves medication adherence, and streamlines communication with healthcare providers. Built with **SwiftUI, Python, Flask, and Firebase Firestore**, PillBox offers an intuitive platform for patients to organize their prescriptions, manage daily dosing schedules, track medication completion, and request refills.
 
 ## ✨ Features
 
